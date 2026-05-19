@@ -15,6 +15,7 @@ people:
 - {name: 'Alexey Kravets', title: 'PhD student', email: 'ak3095@bath.ac.uk', image: 'assets/img/alexey.jpg', url: 'alexey-kravets'}
 - {name: 'Jiahui Li', title: 'PhD student', email: 'jl4616@bath.ac.uk', image: 'assets/img/jiahui.jpg', url: 'jiahui-li'}
 - {name: 'Ziqi Li', title: 'PhD student', email: 'zl2611@bath.ac.uk', image: 'assets/img/ziqi.jpg', url: 'ziqi-li'}
+- {name: 'Po-Yuan Mao', title: 'PhD student', email: 'pmy22@bath.ac.uk', image: 'assets/img/po-yuan.jpg', url: 'po-yuan-mao'}
 - {name: 'Yunpeng Xiao', title: 'PhD student', email: 'yx2172@bath.ac.uk', image: 'assets/img/yunpeng.jpg', url: 'yunpeng-xiao'}
 - {name: 'Yudi Zhang', title: 'PhD student', email: 'yz4582@bath.ac.uk', image: 'assets/img/yudi.jpg', url: 'yudi-zhang'}
 - {name: 'Zilin Zhang', title: 'PhD student', email: 'zz2169@bath.ac.uk', image: 'assets/img/zilin.jpg', url: 'zilin-zhang'}
