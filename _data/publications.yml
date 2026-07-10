@@ -1,5 +1,7 @@
 featured:
 
+- {venue: 'ECCV 26', title: 'DriveVA: Video Action Models are Zero-Shot Drivers', authors: 'Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Michael Ying Yang, Francesco Nex, Hao Cheng', url: 'https://arxiv.org/abs/2604.04198'}
+- {venue: 'ECCV 26', title: 'PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation', authors: 'Yi Yang, Myrna Castillo, Bodo Rosenhahn, Michael Ying Yang', url: 'https://arxiv.org/abs/2607.07170'}
 - {venue: 'ICML 26', title: 'Interpretability Transfer from Language to Vision via Sparse Autoencoders', authors: 'Alexey Kravets, Da Li, Chuan Li, Da Chen, Vinay P. Namboodiri', url: 'https://icml.cc/virtual/2026/poster/61117'}
 - {venue: 'CVPR 26', title: 'Beyond Reassembly: Fractured Object Recovery with Missing Parts', authors: 'Qunce Xu, Jiahui Li, Yan-Pei Cao, Weihao Cheng, Tai-Jiang Mu, Ying Shan, Chuan Li, Da Chen, Yong-Liang Yang, Shi-min Hu', url: ''}
 - {venue: 'CVPR 26', title: 'ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos', authors: 'Luigi Seminara, Davide Moltisanti, Antonino Furnari', url: 'https://arxiv.org/pdf/2603.04265'}
@@ -14,6 +16,8 @@ featured:
 
 index:
 
+- {venue: 'ECCV 26', title: 'DriveVA: Video Action Models are Zero-Shot Drivers', authors: 'Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Michael Ying Yang, Francesco Nex, Hao Cheng', url: 'https://arxiv.org/abs/2604.04198'}
+- {venue: 'ECCV 26', title: 'PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation', authors: 'Yi Yang, Myrna Castillo, Bodo Rosenhahn, Michael Ying Yang', url: 'https://arxiv.org/abs/2607.07170'}
 - {venue: 'ICML 26', title: 'Interpretability Transfer from Language to Vision via Sparse Autoencoders', authors: 'Alexey Kravets, Da Li, Chuan Li, Da Chen, Vinay P. Namboodiri', url: 'https://icml.cc/virtual/2026/poster/61117'}
 - {venue: 'ICLR 26', title: 'Query-Guided Spatial-Temporal-Frequency Interaction for Music Audio-Visual Question Answering', authors: 'Kun Li, Michael Ying Yang, Sami Sebastian Brandt', url: 'https://arxiv.org/abs/2601.19821'}
 - {venue: 'ICLR 26', title: 'ARFlow: Auto-regressive Optical Flow Estimation for Arbitrary-Length Videos via Progressive Next-Frame Forecasting', authors: 'Jiuming Liu, Mengmeng Liu, Siting Zhu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng, Hesheng Wang', url: 'https://openreview.net/pdf?id=iJ7cyttpVj'}
