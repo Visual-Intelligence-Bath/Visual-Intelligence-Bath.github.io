@@ -1,5 +1,7 @@
 featured:
 
+- {venue: 'BMVC 26', title: 'Brush-2-Blendshape: Interpretable User-Friendly Blendshapes for Editing Avatar Expressions', authors: ' Avirup Dey, Vinay Namboodiri', url: 'https://avirupju.github.io/Brush2Blendshape-Website/'}
+- {venue: 'ECCV 26', title: 'Structured SIR: Efficient and Expressive Importance-Weighted Inference for High-Dimensional Image Registration', authors: 'Ivor J. A. Simpson, Neill, D. F. Campbell', url: 'https://arxiv.org/abs/2603.17415'}
 - {venue: 'ECCV 26', title: 'Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition', authors: 'Zhiyao Shu, Jiacheng Yang, Yang Lu, Waishan Qiu, Chuan Li, Da Chen', url: 'https://arxiv.org/abs/2607.00090'}
 - {venue: 'ECCV 26', title: 'DriveVA: Video Action Models are Zero-Shot Drivers', authors: 'Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Michael Ying Yang, Francesco Nex, Hao Cheng', url: 'https://arxiv.org/abs/2604.04198'}
 - {venue: 'ECCV 26', title: 'PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation', authors: 'Yi Yang, Myrna Castillo, Bodo Rosenhahn, Michael Ying Yang', url: 'https://arxiv.org/abs/2607.07170'}
@@ -17,6 +19,8 @@ featured:
 
 index:
 
+- {venue: 'BMVC 26', title: 'Brush-2-Blendshape: Interpretable User-Friendly Blendshapes for Editing Avatar Expressions', authors: ' Avirup Dey, Vinay Namboodiri', url: 'https://avirupju.github.io/Brush2Blendshape-Website/'}
+- {venue: 'ECCV 26', title: 'Structured SIR: Efficient and Expressive Importance-Weighted Inference for High-Dimensional Image Registration', authors: 'Ivor J. A. Simpson, Neill, D. F. Campbell', url: 'https://arxiv.org/abs/2603.17415'}
 - {venue: 'ECCV 26', title: 'Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition', authors: 'Zhiyao Shu, Jiacheng Yang, Yang Lu, Waishan Qiu, Chuan Li, Da Chen', url: 'https://arxiv.org/abs/2607.00090'}
 - {venue: 'ECCV 26', title: 'DriveVA: Video Action Models are Zero-Shot Drivers', authors: 'Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Michael Ying Yang, Francesco Nex, Hao Cheng', url: 'https://arxiv.org/abs/2604.04198'}
 - {venue: 'ECCV 26', title: 'PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation', authors: 'Yi Yang, Myrna Castillo, Bodo Rosenhahn, Michael Ying Yang', url: 'https://arxiv.org/abs/2607.07170'}
