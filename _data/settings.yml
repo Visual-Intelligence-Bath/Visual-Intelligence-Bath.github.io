@@ -13,6 +13,7 @@ people:
 - {name: 'Deblina Bhattacharjee', title: 'Lecturer', email: 'db2466@bath.ac.uk', image: 'assets/img/deblina.jpg', url: 'deblina-bhattacharjee'}
 - {name: 'Da Chen', title: 'Lecturer', email: 'dc598@bath.ac.uk', image: 'assets/img/chen.jpg', url: 'da-chen'}
 - {name: 'Davide Moltisanti', title: 'Lecturer', email: 'dm2460@bath.ac.uk', image: 'assets/img/davide.jpg', url: 'davide-moltisanti'}
+- {name: 'Libo Chen', title: 'PhD student', email: 'lc2762@bath.ac.uk', image: 'assets/img/libo.jpg', url: 'libo-chen'}
 - {name: 'Avirup Dey', title: 'PhD student', email: 'ad2837@bath.ac.uk', image: 'assets/img/avirup.jpg', url: 'avirup-dey'}
 - {name: 'Alexey Kravets', title: 'PhD student', email: 'ak3095@bath.ac.uk', image: 'assets/img/alexey.jpg', url: 'alexey-kravets'}
 - {name: 'Jiahui Li', title: 'PhD student', email: 'jl4616@bath.ac.uk', image: 'assets/img/jiahui.jpg', url: 'jiahui-li'}
