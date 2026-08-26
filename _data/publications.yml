@@ -1,5 +1,6 @@
 featured:
 
+- {venue: 'BMVC 26', title: 'A Plug-in Interpretation of Conditioning in Score-Based Diffusion Models', authors: 'Libo Chen, Souvik Ghosh, Teo Deveney, Chris Budd, Vinay P. Namboodiri', url: 'https://arxiv.org/abs/2608.19504'}
 - {venue: 'BMVC 26', title: 'AccioScene: Compositional 3D Scene Generation via Graph Diffusion and Interaction-driven Critics', authors: 'Yao Wei, Matteo Toso, Pietro Morerio, Changjae Oh, Michael Ying Yang, Alessio Del Bue', url: 'https://arxiv.org/abs/2502.06819'}
 - {venue: 'BMVC 26', title: 'Brush-2-Blendshape: Interpretable User-Friendly Blendshapes for Editing Avatar Expressions', authors: 'Avirup Dey, Vinay Namboodiri', url: 'https://avirupju.github.io/Brush2Blendshape-Website/'}
 - {venue: 'ECCV 26', title: 'Structured SIR: Efficient and Expressive Importance-Weighted Inference for High-Dimensional Image Registration', authors: 'Ivor J. A. Simpson, Neill, D. F. Campbell', url: 'https://arxiv.org/abs/2603.17415'}
@@ -20,6 +21,7 @@ featured:
 
 index:
 
+- {venue: 'BMVC 26', title: 'A Plug-in Interpretation of Conditioning in Score-Based Diffusion Models', authors: 'Libo Chen, Souvik Ghosh, Teo Deveney, Chris Budd, Vinay P. Namboodiri', url: 'https://arxiv.org/abs/2608.19504'}
 - {venue: 'BMVC 26', title: 'AccioScene: Compositional 3D Scene Generation via Graph Diffusion and Interaction-driven Critics', authors: 'Yao Wei, Matteo Toso, Pietro Morerio, Changjae Oh, Michael Ying Yang, Alessio Del Bue', url: 'https://arxiv.org/abs/2502.06819'}
 - {venue: 'BMVC 26', title: 'Brush-2-Blendshape: Interpretable User-Friendly Blendshapes for Editing Avatar Expressions', authors: 'Avirup Dey, Vinay Namboodiri', url: 'https://avirupju.github.io/Brush2Blendshape-Website/'}
 - {venue: 'ECCV 26', title: 'Structured SIR: Efficient and Expressive Importance-Weighted Inference for High-Dimensional Image Registration', authors: 'Ivor J. A. Simpson, Neill, D. F. Campbell', url: 'https://arxiv.org/abs/2603.17415'}
