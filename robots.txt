@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://visual-intelligence-bath.github.io/sitemap.xml
