@@ -1,9 +1,9 @@
 featured:
 
-- {venue: 'NeurIPS 26', title: 'Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization', authors: 'Guangyu Yang, Jingbiao Mei, Mingsheng Sun, Jinghong Chen, Yingtong Bu, Pengda Qin, Da Chen, Bill Byrne', url: ''}
-- {venue: 'NeurIPS 26', title: 'MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers', authors: 'Jiuming Liu, Mengmeng Liu, Guangming Wang, Lihao Liu, Michael Ying Yang, Yunpeng Zhang, Francesco Nex, Hao Cheng, Hesheng Wang', url: ''}
+- {venue: 'NeurIPS 26', title: 'Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization', authors: 'Guangyu Yang, Jingbiao Mei, Mingsheng Sun, Jinghong Chen, Yingtong Bu, Pengda Qin, Da Chen, Bill Byrne', url: 'https://arxiv.org/pdf/2610.02019'}
+- {venue: 'NeurIPS 26', title: 'MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers', authors: 'Jiuming Liu, Mengmeng Liu, Guangming Wang, Lihao Liu, Michael Ying Yang, Yunpeng Zhang, Francesco Nex, Hao Cheng, Hesheng Wang', url: 'https://arxiv.org/abs/2610.12624'}
 - {venue: 'NeurIPS 26', title: 'Cyclic Discrete Diffusion: A Novel Multi-Class Segmentation Refinement Technique', authors: 'Libo Chen, Souvik Ghosh, Vinay P. Namboodiri', url: ''}
-- {venue: 'NeurIPS 26', title: 'Shift-Aware Identity-Guided Latent Refinement for Referring Audio–Visual Segmentation', authors: 'Kun Li, Sami Sebastian Brandt, Michael Ying Yang', url: ''}
+- {venue: 'NeurIPS 26', title: 'Shift-Aware Identity-Guided Latent Refinement for Referring Audio–Visual Segmentation', authors: 'Kun Li, Sami Sebastian Brandt, Michael Ying Yang', url: 'https://arxiv.org/abs/2610.12783'}
 - {venue: 'NeurIPS 26', title: 'UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation', authors: 'Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Francesco Nex, Hao Cheng, Michael Ying Yang', url: 'https://arxiv.org/abs/2607.05133'}
 - {venue: 'BMVC 26', title: 'A Plug-in Interpretation of Conditioning in Score-Based Diffusion Models', authors: 'Libo Chen, Souvik Ghosh, Teo Deveney, Chris Budd, Vinay P. Namboodiri', url: 'https://arxiv.org/abs/2608.19504'}
 - {venue: 'BMVC 26', title: 'AccioScene: Compositional 3D Scene Generation via Graph Diffusion and Interaction-driven Critics', authors: 'Yao Wei, Matteo Toso, Pietro Morerio, Changjae Oh, Michael Ying Yang, Alessio Del Bue', url: 'https://arxiv.org/abs/2502.06819'}
@@ -26,10 +26,10 @@ featured:
 
 index:
 
-- {venue: 'NeurIPS 26', title: 'Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization', authors: 'Guangyu Yang, Jingbiao Mei, Mingsheng Sun, Jinghong Chen, Yingtong Bu, Pengda Qin, Da Chen, Bill Byrne', url: ''}
-- {venue: 'NeurIPS 26', title: 'MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers', authors: 'Jiuming Liu, Mengmeng Liu, Guangming Wang, Lihao Liu, Michael Ying Yang, Yunpeng Zhang, Francesco Nex, Hao Cheng, Hesheng Wang', url: ''}
+- {venue: 'NeurIPS 26', title: 'Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization', authors: 'Guangyu Yang, Jingbiao Mei, Mingsheng Sun, Jinghong Chen, Yingtong Bu, Pengda Qin, Da Chen, Bill Byrne', url: 'https://arxiv.org/pdf/2610.02019'}
+- {venue: 'NeurIPS 26', title: 'MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers', authors: 'Jiuming Liu, Mengmeng Liu, Guangming Wang, Lihao Liu, Michael Ying Yang, Yunpeng Zhang, Francesco Nex, Hao Cheng, Hesheng Wang', url: 'https://arxiv.org/abs/2610.12624'}
 - {venue: 'NeurIPS 26', title: 'Cyclic Discrete Diffusion: A Novel Multi-Class Segmentation Refinement Technique', authors: 'Libo Chen, Souvik Ghosh, Vinay P. Namboodiri', url: ''}
-- {venue: 'NeurIPS 26', title: 'Shift-Aware Identity-Guided Latent Refinement for Referring Audio–Visual Segmentation', authors: 'Kun Li, Sami Sebastian Brandt, Michael Ying Yang', url: ''}
+- {venue: 'NeurIPS 26', title: 'Shift-Aware Identity-Guided Latent Refinement for Referring Audio–Visual Segmentation', authors: 'Kun Li, Sami Sebastian Brandt, Michael Ying Yang', url: 'https://arxiv.org/abs/2610.12783'}
 - {venue: 'NeurIPS 26', title: 'UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation', authors: 'Mengmeng Liu, Diankun Zhang, Jiuming Liu, Jianfeng Cui, Hongwei Xie, Guang Chen, Hangjun Ye, Francesco Nex, Hao Cheng, Michael Ying Yang', url: 'https://arxiv.org/abs/2607.05133'}
 - {venue: 'BMVC 26', title: 'A Plug-in Interpretation of Conditioning in Score-Based Diffusion Models', authors: 'Libo Chen, Souvik Ghosh, Teo Deveney, Chris Budd, Vinay P. Namboodiri', url: 'https://arxiv.org/abs/2608.19504'}
 - {venue: 'BMVC 26', title: 'AccioScene: Compositional 3D Scene Generation via Graph Diffusion and Interaction-driven Critics', authors: 'Yao Wei, Matteo Toso, Pietro Morerio, Changjae Oh, Michael Ying Yang, Alessio Del Bue', url: 'https://arxiv.org/abs/2502.06819'}
